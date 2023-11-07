@@ -1,1 +1,3 @@
 # Short Palindrome
+
+## Solutions

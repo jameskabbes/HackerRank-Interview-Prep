@@ -1,1 +1,3 @@
 # Sherlock and Anagrams
+
+## Solutions

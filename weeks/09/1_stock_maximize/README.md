@@ -1,1 +1,3 @@
 # Stock Maximize
+
+## Solutions

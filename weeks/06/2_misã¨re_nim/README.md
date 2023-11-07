@@ -1,1 +1,3 @@
 # Misère Nim
+
+## Solutions

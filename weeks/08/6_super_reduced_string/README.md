@@ -1,1 +1,3 @@
 # Super Reduced String
+
+## Solutions

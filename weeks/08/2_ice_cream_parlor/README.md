@@ -1,1 +1,3 @@
 # Ice Cream Parlor
+
+## Solutions

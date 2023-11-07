@@ -1,1 +1,3 @@
 # Equal Stacks
+
+## Solutions

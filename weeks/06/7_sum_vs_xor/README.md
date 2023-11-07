@@ -1,1 +1,3 @@
 # Sum vs XOR
+
+## Solutions

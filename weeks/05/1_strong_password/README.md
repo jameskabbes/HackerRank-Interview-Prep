@@ -1,1 +1,3 @@
 # Strong Password
+
+## Solutions

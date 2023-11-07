@@ -1,1 +1,3 @@
 # Waiter
+
+## Solutions

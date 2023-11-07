@@ -1,1 +1,3 @@
 # Weighted Uniform Strings
+
+## Solutions

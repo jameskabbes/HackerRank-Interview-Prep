@@ -1,1 +1,3 @@
 # Number Line Jumps
+
+## Solutions

@@ -1,1 +1,3 @@
 # Sansa and XOR
+
+## Solutions

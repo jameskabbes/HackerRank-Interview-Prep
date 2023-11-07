@@ -1,1 +1,3 @@
 # Flipping Bits
+
+## Solutions

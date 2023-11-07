@@ -1,1 +1,3 @@
 # Gena Playing Hanoi
+
+## Solutions

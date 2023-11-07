@@ -1,1 +1,3 @@
 # Bead Ornaments
+
+## Solutions

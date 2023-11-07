@@ -1,1 +1,3 @@
 # Merging Communities
+
+## Solutions

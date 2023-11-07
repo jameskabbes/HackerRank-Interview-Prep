@@ -1,1 +1,3 @@
 # Counter Game
+
+## Solutions

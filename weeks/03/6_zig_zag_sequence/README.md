@@ -1,1 +1,3 @@
 # Zig Zag Sequence
+
+## Solutions

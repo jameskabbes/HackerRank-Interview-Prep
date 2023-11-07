@@ -1,1 +1,3 @@
 # The Bomberman Game
+
+## Solutions

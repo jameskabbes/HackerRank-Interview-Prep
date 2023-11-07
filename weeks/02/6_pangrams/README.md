@@ -1,1 +1,3 @@
 # Pangrams
+
+## Solutions

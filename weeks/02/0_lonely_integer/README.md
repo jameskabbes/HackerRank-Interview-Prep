@@ -1,1 +1,3 @@
 # Lonely Integer
+
+## Solutions

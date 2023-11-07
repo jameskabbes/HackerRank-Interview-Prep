@@ -1,1 +1,3 @@
 # Mini-Max Sum
+
+## Solutions
