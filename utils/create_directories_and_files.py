@@ -13,7 +13,7 @@ max_problems = max( map( len, [ data['weeks'][week] for week in data['weeks'] ] 
 def int_with_leading_zeroes( x, zeroes: int ) -> str:
     return "0" * ( zeroes - len(str(x)) ) + str(x)
 
-readme_contents = '# '
+weeks_readme_contents = '# Weeks\n\n'
 
 # Make each subdir within weeks
 for week in data['weeks']:
@@ -28,7 +28,6 @@ for week in data['weeks']:
     # Make each problem dir within week subdir
     for i in range(len(data['weeks'][week])):
 
-        week_readme_contents += '* {}\n'.format( data['weeks'][week][i] )
 
         problem = data['weeks'][week][i]
         problem = problem.lower()
@@ -39,6 +38,8 @@ for week in data['weeks']:
         
         number_with_leading_zeroes = int_with_leading_zeroes( i, len(str(max_problems)) )
         dirname = '_'.join([ number_with_leading_zeroes, problem ])
+
+        week_readme_contents += '* [{}]({})\n'.format( data['weeks'][week][i], dirname )
 
         problem_Dir = week_Dir.joinpath( dirname )
         problem_Dir.mkdir( exist_ok=True )
@@ -52,3 +53,8 @@ for week in data['weeks']:
     if not readme_Path.exists():
         readme_Path.write_text( week_readme_contents )
         
+    weeks_readme_contents += '* [{}]({})\n'.format( week, week_with_leading_zeroes )
+
+readme_Path = params.weeks_Dir.joinpath( 'README.md' )
+if not readme_Path.exists():
+    readme_Path.write_text( weeks_readme_contents )    
