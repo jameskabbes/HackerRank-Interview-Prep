@@ -73,19 +73,13 @@ for week in data['weeks']:
             # find all file endings and add them to the README file
             solution_Paths = [ P for P in problem_Dir.glob('*') if P.name != 'README.md' ] 
 
-            print (content)
-
             del content[ solutions_line_start_index+1:solutions_line_end_index+1 ]
             for i in range( len(solution_Paths) ):
                 solution_link = utils.make_md_link( solution_Paths[i].name, solution_Paths[i].suffix )
                 content.insert( solutions_line_start_index+1+i, '* {}'.format(solution_link)  )
 
-            print (content)
-
             readme_Path.write_text( '\n'.join(content) )
 
-        exit()
-    
     readme_Path = week_Dir.joinpath( 'README.md' )
     if not readme_Path.exists():
         readme_Path.write_text( week_readme_contents )
