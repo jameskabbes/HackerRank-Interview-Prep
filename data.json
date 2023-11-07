@@ -1,0 +1,15 @@
+{"weeks":{
+    "1":["Plus Minus","Mini-Max Sum","Time Conversion","Breaking the Records","Camel Case 4", "Divisible Sum Pairs","Sparse Arrays"],
+    "2":["Lonely Integer","Grading Students","Flipping Bits","Diagonal Difference","Counting Sort 1","Counting Valleys","Pangrams","Mars Exploration"],
+    "3":["Permuting Two Arrays","Subarray Division 2","XOR Strings 3","Sales by Match","Migratory Birds","Maximum Perimeter Triangle","Zig Zag Sequence","Drawing Book"],
+    "4":["Picking Numbers","Left Rotation","Number Line Jumps","Separate the Numbers","Closest Numbers","Tower Breakers","Minimum Absolute Difference in an Array","Caesar Cipher"],
+    "5":["Max Min","Strong Password","Dynamic Array","Smart Number 2","Missing Numbers","The Full Counting Sort","Grid Challenge","Sansa and XOR"],
+    "6":["Prime Dates","Sherlock and Array","Misère Nim","Gaming Array 1","Forming a Magic Square","Recursive Digit Sum","Counter Game","Sum vs XOR"],
+    "7":["The Bomberman Game","New Year Chaos","Goodland Electricity","Sherlock and the Valid String","Climbing the Leaderboard","Reverse a linked list","Reverse a doubly linked list","Insert a node at a specific position in a linked list"],
+    "8":["Merge two sorted linked lists","Cycle Detection","Ice Cream Parlor","Inserting a Node Into a Sorted Doubly Linked List","Queue using Two Stacks","Sherlock and Anagrams","Super Reduced String","Balanced Brackets"],
+    "9":["Waiter","Stock Maximize","Simple Text Editor","Equal Stacks","The Coin Change Problem","Two Characters","The Maximum Subarray","Chief Hopper"],
+    "10":["Lego Blocks","Weighted Uniform Strings","Permutation game","QHEAP1","Largest Rectangle","Jesse and Cookies","Hackerland Radio Transmitters","Minimum Operations 4"],
+    "11":["Queries with Fixed Length","Common Child","Array Manipulation","Highest Value Palindrome","Lily's Homework","Tree: Postorder Traversal","Tree: Preorder Traversal","Tree: Huffman Decoding"],
+    "12":["Tree Height of a Binary Tree","Binary Search Tree Lowest Common Ancestor","Prim's (MST): Special Subtree","Bead Ornaments","Floyd: City of Blinding Lights","No Prefix Set","Merging Communities","Castle on the Grid"],
+    "13":["Find the Running Median","Contacts","Roads and Libraries","Journey to the Moon","Gena Playing Hanoi","Cube Submission","Jack goes to Rapture","Minimim Loss 1","Short Palindrome"]
+}}
