@@ -54,7 +54,6 @@ for week in data['weeks']:
         for i in range(len(content)):
             
             line = content[i]
-            print (line)
             # find the start solutions line
             if line == solutions_line:
                 solutions_line_start_index = i        
