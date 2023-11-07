@@ -1,6 +1,6 @@
 # Week 1
 
-* Plus Minus
+* [Plus Minus](./0_plus_minus/)
 * Mini-Max Sum
 * Time Conversion
 * Breaking the Records
