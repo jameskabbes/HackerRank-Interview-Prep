@@ -15,3 +15,14 @@ def miniMaxSum(arr):
     max_sum = total - lowest_value
     min_sum = total - highest_value
     print (' '.join( [str(min_sum), str(max_sum)] ) )
+    
+
+def miniManSum2(arr):
+    
+    total = sum(arr)
+    lowest_value = min(arr)
+    highest_value = max(arr)
+    
+    max_sum = total - lowest_value
+    min_sum = total - highest_value
+    print (' '.join( [str(min_sum), str(max_sum)] ) )
