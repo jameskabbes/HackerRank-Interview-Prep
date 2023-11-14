@@ -10,5 +10,6 @@ def lonelyinteger(a):
             appears_twice.add( item )
         
     difference = appears_once-appears_twice
-    lonely = list(difference)[0]
-    return lonely
+    for lonely in difference:
+        return lonely
+    

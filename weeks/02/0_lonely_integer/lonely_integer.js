@@ -11,6 +11,7 @@ function lonelyinteger(a) {
     }
   
     const difference = new Set([...appearsOnce].filter((x) => !appearsTwice.has(x)));
-    const lonely = Array.from(difference)[0];
-    return lonely;
+    for (let lonely of difference) {
+      return lonely;
+    }
 } 

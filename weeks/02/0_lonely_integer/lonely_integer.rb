@@ -11,8 +11,9 @@ def lonelyinteger(a)
     end
   
     difference = appears_once - appears_twice
-  
-    lonely = difference.to_a[0]
-    return lonely
+    
+    difference.each do |lonely|
+        return lonely
+    end
   end
   
