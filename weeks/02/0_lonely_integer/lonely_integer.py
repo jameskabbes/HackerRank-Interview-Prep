@@ -9,6 +9,6 @@ def lonelyinteger(a):
         else:
             appears_twice.add( item )
         
-    for item in appears_once:
-        if item not in appears_twice:
-            return item
+    difference = appears_once-appears_twice
+    lonely = list(difference)[0]
+    return lonely

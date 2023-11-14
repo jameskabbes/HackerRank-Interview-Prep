@@ -10,10 +10,9 @@ def lonelyinteger(a)
       end
     end
   
-    appears_once.each do |item|
-      if !appears_twice.include?(item)
-        return item
-      end
-    end
+    difference = appears_once - appears_twice
+  
+    lonely = difference.to_a[0]
+    return lonely
   end
   
