@@ -39,4 +39,9 @@ The secondary diagonal can be modeled by `arr[i][n_rows-(i+1)]` as i loops from 
 4 **5** 6 -> `arr[1][1]`<br> 
 **7** 8 9 -> `arr[2][0]`<br> 
 
+As you loop from indices 0 to `n_rows - 1`, keep track of the cumulative sum of the diagonals.
+
+### Returning the Absolute Value of the Difference
+Finally, take the difference of the two diagonal sums, and then perform the absolute value operation on that difference. Return the absolute value
+
 
