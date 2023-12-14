@@ -35,7 +35,7 @@ for week in data['weeks']:
                            utils.prep_filename(problem)])
 
         # Add a bullet point of: * [Link Preview](Link Body)
-        week_readme_contents += '* {}\n'.format(
+        week_readme_contents += '- {}\n'.format(
             utils.make_md_link(dirname, problem))
 
         problem_Dir = week_Dir.joinpath(dirname)
