@@ -1,9 +1,10 @@
 # Plus Minus
 
 ## Solutions
-* [.js](plus_minus.js)
-* [.py](plus_minus.py)
-* [.rb](plus_minus.rb)
+
+- [.js](plus_minus.js)
+- [.py](plus_minus.py)
+- [.rb](plus_minus.rb)
 
 ## Explanation
 In this solution, we initalize three varialbes to count the number of positive, negative, and zero values in the array.

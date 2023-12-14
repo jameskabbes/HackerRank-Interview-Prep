@@ -1,9 +1,10 @@
 # Diagonal Difference
 
 ## Solutions
-* [.js](diagonal_difference.js)
-* [.py](diagonal_difference.py)
-* [.rb](diagonal_difference.rb)
+
+- [.js](diagonal_difference.js)
+- [.py](diagonal_difference.py)
+- [.rb](diagonal_difference.rb)
 
 ## Explanation
 In this problem, we must do basic calculations on a 2-Dimensional array. We calculate the sum of the numbers in the primary diagonal, the sum of the secondary diagonal, and then take the absolute value of the difference of the two diagonals. This value is then returned.

@@ -1,9 +1,10 @@
 # Mini-Max Sum
 
 ## Solutions
-* [.js](mini_max_sum.js)
-* [.py](mini_max_sum.py)
-* [.rb](mini_max_sum.rb)
+
+- [.js](mini_max_sum.js)
+- [.py](mini_max_sum.py)
+- [.rb](mini_max_sum.rb)
 
 ## Explanation
 In this problem, we are given an array and we need to know three things about it:

@@ -1,9 +1,10 @@
 # Time Conversion
 
 ## Solutions
-* [.js](time_conversion.js)
-* [.py](time_conversion.py)
-* [.rb](time_conversion.rb)
+
+- [.js](time_conversion.js)
+- [.py](time_conversion.py)
+- [.rb](time_conversion.rb)
 
 ## Explanation
 To start, it will be handy to have variables designating the `hour`, `minute`, `second`, and `ampm`. Perform basic string slicing to define these.

@@ -1,9 +1,10 @@
 # Breaking the Records
 
 ## Solutions
-* [.js](breaking_the_records.js)
-* [.py](breaking_the_records.py)
-* [.rb](breaking_the_records.rb)
+
+- [.js](breaking_the_records.js)
+- [.py](breaking_the_records.py)
+- [.rb](breaking_the_records.rb)
 
 ## Explanation
 

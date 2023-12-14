@@ -1,9 +1,10 @@
 # Lonely Integer
 
 ## Solutions
-* [.js](lonely_integer.js)
-* [.py](lonely_integer.py)
-* [.rb](lonely_integer.rb)
+
+- [.js](lonely_integer.js)
+- [.py](lonely_integer.py)
+- [.rb](lonely_integer.rb)
 
 ## Explanation
 In this example, we have an array of numbers. Each number in the array appears twice, except for one number, which only appears once. This example solves the problem utilizing the set data structure, although there are many other solutions. We define two sets, one set to track the first time we see a unique number, and the second set to capture the second (or third, or fourth) time we see that given number. Then, we simply return the only number which is found in the first set, but not the second set.

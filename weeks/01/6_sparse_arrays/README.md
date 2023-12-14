@@ -1,9 +1,10 @@
 # Sparse Arrays
 
 ## Solutions
-* [.js](sparse_arrays.js)
-* [.py](sparse_arrays.py)
-* [.rb](sparse_arrays.rb)
+
+- [.js](sparse_arrays.js)
+- [.py](sparse_arrays.py)
+- [.rb](sparse_arrays.rb)
 
 ## Explanation
 In this problem, we need to be able to find how many times certain strings appear in an array. To do this, we will use a hash table / dictionary / map.

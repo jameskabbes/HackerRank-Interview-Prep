@@ -1,9 +1,10 @@
 # Flipping Bits
 
 ## Solutions
-* [.js](flipping_bits.js)
-* [.py](flipping_bits.py)
-* [.rb](flipping_bits.rb)
+
+- [.js](flipping_bits.js)
+- [.py](flipping_bits.py)
+- [.rb](flipping_bits.rb)
 
 ## Explanation
 To solve this problem, we need to have a basic understanding of Base-10 versus Base-2 (binary) numbers. Read more about a binary number [here](https://en.wikipedia.org/wiki/Binary_number). To solve, we convert a Base-10 number into binary, switch each of the bits (1 -> 0, 0 -> 1) in the 32-bit number, and then convert back to Base-10. 
