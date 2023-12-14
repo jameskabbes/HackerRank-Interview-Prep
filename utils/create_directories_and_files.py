@@ -78,7 +78,7 @@ for week in data['weeks']:
                 '*') if P.name != 'README.md']
 
             del content[solutions_line_start_index +
-                        1:solutions_line_end_index+1]
+                        1:solutions_line_end_index]
 
             for i in range(len(solution_Paths)):
                 solution_link = utils.make_md_link(
@@ -88,6 +88,7 @@ for week in data['weeks']:
 
             if len(solution_Paths) > 0:
                 content.insert(solutions_line_start_index+1, '')
+                content.insert(solutions_line_start_index+1+i+2, '')
 
             readme_Path.write_text('\n'.join(content))
 
