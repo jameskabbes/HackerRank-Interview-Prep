@@ -1,3 +1,5 @@
+#include <string>
+
 int countingValleys(int steps, string path) {
   bool inMountain = false;
   bool inValley = false;
