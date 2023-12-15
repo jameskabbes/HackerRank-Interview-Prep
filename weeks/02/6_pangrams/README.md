@@ -2,7 +2,10 @@
 
 ## Solutions
 
+- [.cpp](pangrams.cpp)
+- [.js](pangrams.js)
 - [.py](pangrams.py)
+- [.rb](pangrams.rb)
 
 ## Explanation
 
